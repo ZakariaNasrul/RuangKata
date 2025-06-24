@@ -101,7 +101,7 @@ $penulis = mysqli_query($conn, "SELECT * FROM author ORDER BY id DESC");
         <div class="navbar-wrapper">
             <nav class="custom-navbar">
                 <a href="index.php" class="navbar-brand-custom">
-                    <img src="img/logo.png" alt="Ruang Kata" class="logo-navbar">
+                    <img src="img/Logo.png" alt="Ruang Kata" class="logo-navbar">
                 </a>
 
                 <button class="navbar-toggler-custom" type="button" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
